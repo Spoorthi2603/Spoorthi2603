@@ -10,6 +10,11 @@
 - 🤝 I’m looking for help with **Open source contribution**
 
 <h3 align="left">Connect with me:</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/spoorthi-bistappa-7b8a37245/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <p align="left">
 </p>
 
