@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Spoorthi</h1>
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 </div>
-<h1 align="center">Hi 👋, I'm Spoorthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br>
 
 - 🔭 I’m currently working on **college project**
 
